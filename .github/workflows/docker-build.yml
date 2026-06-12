@@ -27,4 +27,4 @@ jobs:
               with:
                 context: .
                 push: true
-                tags: ${{ secrets.DOCKER_USERNAME }}/fastapi-docker-ATC:latest
+                tags: ${{ secrets.DOCKER_USERNAME }}/fastapi-docker-atc:latest
